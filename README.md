@@ -5,7 +5,7 @@ Z Gen Cinema Reservation System is a **Java-based** application designed for �
 ## 🖥️ Dashboard Overview
 
 ### 🔹 **Admin Dashboard**
-![Admin Dashboard](SS (4).png)  
+![Admin Dashboard](./src/resource/SS%20(4).png)  
 The Admin Dashboard provides an overview of **income, expenses, profit, and costs** for the entire cinema system.
 
 ### 🔹 **Super Admin Dashboard**
@@ -18,7 +18,7 @@ This functions as a **POS (Point of Sale) system** for managing snack sales.
 A dedicated **POS system for cashiers** to handle transactions.
 
 ### 🔹 **Movie Cashier Dashboard**
-![Movie Cashier Dashboard](1.PNG)  
+![Movie Cashier Dashboard](./src/resource/SS%20(3).png)  
 The main **ticket reservation dashboard**, where the cashier can **select a movie, choose available seats, and print tickets**.
 
 ---
@@ -40,7 +40,7 @@ The **Cinema Reservation System** was developed using the following technology s
 
 ## 📸 **Screenshots**
 ![Movie Cashier Dashboard](./src/resource/SS%20(1).png)
-![Movie Cashier Dashboard](1.PNG)
+![Movie Cashier Dashboard](./src/resource/SS%20(2).png)
 
 ---
 
