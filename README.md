@@ -39,7 +39,7 @@ The **Cinema Reservation System** was developed using the following technology s
 ---
 
 ## 📸 **Screenshots**
-![Movie Cashier Dashboard](1.PNG)
+![Movie Cashier Dashboard](./src/resource/SS%20(1).png)
 ![Movie Cashier Dashboard](1.PNG)
 
 ---
